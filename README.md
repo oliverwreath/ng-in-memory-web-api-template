@@ -1,7 +1,8 @@
 # NgTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
-![version.png](resource/version.png)
+
+<img src="resource/version.png" width="40%" alt="version.png"/>
 
 ## First run commands
 ```bash
@@ -9,11 +10,13 @@ npm version
 npm install 
 ng version
 ng test --no-watch --code-coverage
-ng e2e
+#ng e2e
 ng lint
 ng update
 npm update
 ```
+
+<img src="resource/in-memory-web-api.png" width="30%" alt="in-memory-web-api.png"/>
 
 ## Development server
 
